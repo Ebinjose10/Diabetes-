@@ -1,2 +1,2 @@
 # Diabetes-
-This preoject uses Machine learning and data analysis to predict that a patient is suffering from diabetes or not.machine learning is the futhure of healthcare and ML and deep learnig are starting to be used in multiple fields throughout healthcare industry. 
+This project uses Machine learning and data analysis to predict that a patient is suffering from diabetes or not.Machine learning is the futhure of healthcare and ML and deep learnig are starting to be implimented in multiple fields throughoutthe healthcare industry. 
